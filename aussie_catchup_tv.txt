@@ -1,5 +1,24 @@
-# format 0.0.0.0 analytics.163.com
+# format 0.0.0.0 web.address.com
 #
 #0.0.0.0 securepubads.g.doubleclick.net
 #0.0.0.0 pubads.g.doubleclick.net
 #0.0.0.0 z.moatads.com
+#0.0.0.0 r1---sn-fpqxc5oq-hxal.googlevideo.com
+#0.0.0.0 www.googletagservices.com
+#0.0.0.0 dai.google.com
+#0.0.0.0 www.google-analytics.com
+#0.0.0.0 ade.googlesyndication.com
+#0.0.0.0 pagead2.googlesyndication.com
+#0.0.0.0 tps.doubleverify.com
+#0.0.0.0 redirector.googlevideo.com
+#0.0.0.0 googleads4.g.doubleclick.net
+#0.0.0.0 csi.gstatic.com
+#0.0.0.0 10play-vod.global.ssl.fastly.net
+#0.0.0.0 deliver.oztam.com.au
+#0.0.0.0 connectivitycheck.gstatic.com
+#0.0.0.0 pubads.g.doubleclick.net
+#0.0.0.0 collect.tealiumiq.com
+#0.0.0.0 sin3-ib.adnxs.com
+#0.0.0.0 secure.insightexpressai.com
+#0.0.0.0 cdn.adnxs.com
+#0.0.0.0 x.bidswitch.net
